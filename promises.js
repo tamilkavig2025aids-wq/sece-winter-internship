@@ -30,5 +30,3 @@ const getUsers1=async()=>{
 
 }
 getUsers1();
-
- 
